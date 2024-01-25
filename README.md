@@ -9,7 +9,7 @@ This is a simple to-do list application built using Python and Tkinter. It allow
 
 2. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/todo-list-app.git
+   git clone https://github.com/PiragashSelva/To-do-list
 
 3. Navigate to the project directory:
    ```bash
